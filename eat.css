@@ -1,0 +1,49 @@
+
+    #mainimg {
+    min-height : 100%;
+    min-width : 100%;
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+   }
+
+    .no-underline:hover {
+        text-decoration: none;
+        
+      }
+      .carousel-inner > .carousel-item > img {
+        width:640px ;
+        height:360px; 
+        
+      }
+      .text1 {
+        text-align: center;
+        font-size: 4rem;
+        font-weight: 700;
+        letter-spacing: 8px;
+        margin-bottom: 20px;
+    }
+    .text2{
+        font-size: 3.25rem;
+        font-weight: bold;
+        text-align: center;
+        font-style: italic;
+        
+    }
+    .text3{
+        margin-top: 5rem;
+        text-align: justify;
+        font-size: 1.2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+
+  
+      .text4{
+        color: rgb(108, 6, 6);
+        font-style: italic;
+    }
+    
+
+
+
